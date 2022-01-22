@@ -1,0 +1,2 @@
+# PythonTest_NewFish
+FirtDay_新人进入代码世界(学习使用python用于Linux相关自动化测试，如何学习多指教)
